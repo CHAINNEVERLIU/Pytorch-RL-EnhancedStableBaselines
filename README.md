@@ -12,14 +12,6 @@ This repository extends [Stable-Baselines3](https://github.com/DLR-RM/stable-bas
 - **📂 Prebuilt Experiment Cases**: Provides example usage in the `experiments` directory to help users quickly get started.
 - **🔄 Ongoing Updates**: Continual improvements and additions of new reinforcement learning algorithms.
 
-## 📥 Installation
-
-To install the extended library:
-
-```bash
-pip install git+https://github.com/CHAINNEVERLIU/Pytorch-RL-EnhancedStableBaselines.git
-```
-
 ## 🛠 Usage
 
 The extended algorithms can be used just like other Stable-Baselines3 models:
